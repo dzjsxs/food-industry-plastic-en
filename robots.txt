@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://food-industry-plastic-en.pages.dev/sitemap.xml
